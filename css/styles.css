@@ -10,4 +10,24 @@ h1 {
   color: #333;
 }
 
+.listausu{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  width: 80%;
+  max-width: 1000%;
+  padding: 20px;
+  border-radius: 10px;
+}
+.contenedor{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
 
+img{
+  width: 100px;
+  height: auto;
+}
